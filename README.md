@@ -27,6 +27,6 @@ Below is a summary of the models of the Precision, Recall, F1 scores and the cos
 
 ## Takeaways 
 From our findings, it shows that: 
-* higher score  ≠  Lesser Costs 
+* higher score  ≠  lesser costs 
 * retrieve relevant data to minimise time spent in detecting fraudulent transactions real-time 
 * keeping updated with technology advancements (in terms of devices used, firewalls, to individual's knowledge)
