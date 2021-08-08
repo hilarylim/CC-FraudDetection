@@ -21,7 +21,7 @@ With the assumption that:
 * 1 fraudulent transaction costs = EUR 162 (including an average of EUR 33k p.a. of a Fraud Analyst salary; & 
 * 1 incorrect labelled transaction costs = EUR 40 
 
-Below is a summary of the models of the Precision, Recall, F1 scores and the costs it the company has to bear if the company implements the respective approach(es). 
+Below is a summary of the models of the Precision, Recall, F1 scores and the costs it the company has to bear if the company implements the respective approach(es). Kindly note that the results in the below table are rounded up to the nearest 1%. For a detailed score, please refer to the jupyter notebooks in this repository. 
 \
 <img width="450" alt="costs" src="https://user-images.githubusercontent.com/77626155/128606631-2626eeec-92dc-44eb-8381-bd204e2c6276.PNG">
 
